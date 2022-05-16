@@ -1,7 +1,7 @@
 ## Disclaimer:
 This project has been removed from our cursus for several reasons.  
-First one, k8s is too hard for an introduction to containers...
-Second, the subject was not really great.
+First one, k8s is too hard for an introduction to containers...  
+Second, the subject was not great.
 
 # ft_services
 
